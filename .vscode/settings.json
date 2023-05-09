@@ -23,5 +23,6 @@
    "files.autoSave": "off",
    "workbench.colorTheme": "Tomorrow Night Blue",
    "terminal.integrated.gpuAcceleration": "canvas",
-   "editor.defaultFormatter": "HookyQR.beautify"
+"editor.defaultFormatter": "HookyQR.beautify",
+"editor.bracketPairColorization.independentColorPoolPerBracketType": false
 }
